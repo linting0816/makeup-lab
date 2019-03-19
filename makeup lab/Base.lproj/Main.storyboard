@@ -630,7 +630,7 @@ You’ll love it because:
                                 <rect key="frame" x="16" y="369" width="343" height="249"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <string key="text">If the mere thought of using eyeliner conjures up an image of disaster, you are not alone!
+                                <mutableString key="text">If the mere thought of using eyeliner conjures up an image of disaster, you are not alone!
 
 Many of us feel uncomfortable using fine brushes, liquid pencils and precision applicators. Yet no eye makeup is complete or perfect without this multitasking product. There are at least three good reasons for this:
 
@@ -639,8 +639,6 @@ Many of us feel uncomfortable using fine brushes, liquid pencils and precision a
 2. it guarantees long-lasting hold, meaning you won’t be constantly touching it up during the day.
 
 3. it allows you to create endless different styles: a thin, restrained line for the office, big upwards strokes for the evening, or coloured lines to make your eyes pop...
-
-A TUTORIAL FOR EVERLASTING LOVE: SO HOW SHOULD YOU APPLY YOUR EYELINER?
 
 There are no strict rules on how to apply eyeliner but we have a few tricks up our sleeve for simple, painless application.
 
@@ -668,7 +666,7 @@ Pen, gel, liquid or applicator... there are lots of different types of eyeliner.
 
 Get your makeup and your phone ready: take a photo of your look and share it using the hashtag #kikotrendsetters: take centre stage in the world of KIKO MILANO.
 
-</string>
+</mutableString>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
